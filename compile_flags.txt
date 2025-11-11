@@ -1,3 +1,3 @@
--Icpp
--Icpp/bits
--std=c++23
+-std=c++14
+-fsanitize=undefined
+-fsanitize=address
